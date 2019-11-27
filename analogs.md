@@ -76,8 +76,13 @@ Freeform 3 - приложение, разработанное для испол�
 ## Источники
 
 [1] Hiroaki Nishino, Kouichi Utsumiya, K. K. (1998). 3d object modeling using spatial and pictographic gestures. VRST.
+
 [2] Steven Schkolne, Michael Pruett, P. S. (2001). Surface drawing: Creating organic 3d shapes with the hand and tangible tools. CHI.
+
 [3] Kevin T. McDonnell, H. Q. and Wlodarczyk, R. A. (2001). Virtual clay: A real-time sculpting system with haptic toolkits.
+
 [4] Jia Sheng, Ravin Balakrishnan, K. S. (2006). An interface for virtual 3d sculpting via physical proxy.
+
 [5] https://controlengrussia.com/programmnye-sredstva/taktilnoe-upravlenie-narabotka-opyta/
+
 [6] https://www.arrow.com/en/products/90-0002/ultraleap
